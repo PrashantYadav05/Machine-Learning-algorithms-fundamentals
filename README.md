@@ -1,1 +1,1 @@
-# Machine-Learning-algorithms-fundamentals
+# Machine Learning algorithms fundamentals

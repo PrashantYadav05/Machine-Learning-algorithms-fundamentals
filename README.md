@@ -41,3 +41,4 @@ Note: Caution while applying these validation techniques in Time Series data.
   * Confusion Matrix.
   * Classification Report.
 * Regression Metrics
+## Spot-Check classification algorithms
